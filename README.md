@@ -46,8 +46,10 @@ Currently exploring **AI integration**, **system design**, and **cloud architect
 
 ### 📊 GitHub Stats
 
-![HaikalMuhammadRafli's Stats](https://github-readme-stats.vercel.app/api?username=HaikalMuhammadRafli&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
-![HaikalMuhammadRafli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaikalMuhammadRafli&theme=ayu-mirage&hide_border=true)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=HaikalMuhammadRafli&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=HaikalMuhammadRafli&theme=ayu-mirage&hide_border=true" />
+</p>
 
 ---
 
