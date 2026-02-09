@@ -14,7 +14,7 @@
 
 <p align="center">
   <b>Languages & Frameworks</b><br><br>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,flutter,python,go,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,angular,nestjs,flutter,python,go,nodejs,express" />
 </p>
 
 <p align="center">
